@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zacharygolba/babel-preset-lux.git"
+    "url": "git+https://github.com/postlight/babel-preset-lux.git"
   },
   "author": "Zachary Golba",
   "license": "MIT",
