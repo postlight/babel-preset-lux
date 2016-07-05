@@ -1,11 +1,11 @@
 # babel-preset-lux
 
-> Babel preset for all plugins require by [Lux](https://github.com/postlight/lux).
+> Babel preset for all plugins required by [Lux](https://github.com/postlight/lux).
 
 ## Install
 
-```sh
-$ npm install --save-dev babel-preset-lux
+```bash
+npm install --save-dev babel-preset-lux
 ```
 
 ## Usage
@@ -22,14 +22,14 @@ $ npm install --save-dev babel-preset-lux
 
 ### Via CLI
 
-```sh
-$ babel script.js --presets lux
+```bash
+babel script.js --presets lux
 ```
 
 ### Via Node API
 
 ```javascript
 require('babel-core').transform('code', {
-  presets: ['es2015']
+  presets: ['lux']
 });
 ```
