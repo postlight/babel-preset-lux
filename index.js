@@ -1,6 +1,6 @@
 module.exports = {
   plugins: [
-    require('babel-plugin-external-helpers-2'),
+    require('babel-plugin-external-helpers'),
     require('babel-plugin-syntax-trailing-function-commas'),
     require('babel-plugin-transform-async-to-generator'),
     require('babel-plugin-transform-class-properties'),
