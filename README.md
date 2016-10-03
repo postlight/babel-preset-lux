@@ -1,6 +1,6 @@
 # babel-preset-lux
 
-> Babel preset for all plugins required by [Lux](https://github.com/postlight/lux).
+> A babel preset containing all of the plugins required by [Lux](https://github.com/postlight/lux).
 
 ## Install
 

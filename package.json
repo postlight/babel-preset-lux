@@ -1,21 +1,22 @@
 {
   "name": "babel-preset-lux",
   "version": "1.2.0",
-  "description": "",
+  "description": "A babel preset containing all of the plugins required by Lux.",
+  "repository": "github:postlight/babel-preset-lux",
+  "keywords": [
+    "lux",
+    "babel",
+    "preset"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/postlight/babel-preset-lux.git"
-  },
   "author": "Zachary Golba",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/zacharygolba/babel-preset-lux/issues"
+  "engines": {
+    "node": ">= 6.0"
   },
-  "homepage": "https://github.com/zacharygolba/babel-preset-lux#readme",
   "dependencies": {
     "babel-plugin-external-helpers": "^6.8.0",
     "babel-plugin-transform-async-to-generator": "^6.8.0",
