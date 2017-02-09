@@ -1,5 +1,7 @@
 # babel-preset-lux
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/postlight/babel-preset-lux.svg)](https://greenkeeper.io/)
+
 > A babel preset containing all of the plugins required by [Lux](https://github.com/postlight/lux).
 
 ## Install
