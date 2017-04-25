@@ -1,5 +1,14 @@
 # Babel Preset Lux Changelog
 
+### v2.0.2 (Apr 17, 2016)
+
+##### Commits
+
+*   [[`b83b98fa16`](https://github.com/postlight/babel-preset-lux/commit/b83b98fa16)] - **feat**: add a changelog (#13) (Zachary Golba)
+*   [[`f61f986558`](https://github.com/postlight/babel-preset-lux/commit/f61f986558)] - **feat**: use yarn (#12) (Zachary Golba)
+*   [[`696d6db359`](https://github.com/postlight/babel-preset-lux/commit/696d6db359)] - **fix**: remove babili (#11) (Nick Schot)
+*   [[`01dbef7f89`](https://github.com/postlight/babel-preset-lux/commit/01dbef7f89)] - **release**: v2.0.1 (#10) (Zachary Golba)
+
 ### v2.0.1 (Dec 17, 2016)
 
 ##### Commits
@@ -36,13 +45,13 @@
 *   [[`bfeb637404`](https://github.com/postlight/babel-preset-lux/commit/bfeb637404)] - **docs**: update README.md (#3) (Zachary Golba)
 *   [[`d2bcf8f889`](https://github.com/postlight/babel-preset-lux/commit/d2bcf8f889)] - **chore**: update repo in package.json (#2) (Zachary Golba)
 
-### v1.1.0 (Jun 19, 2016)
+### v1.1.0 (June 19, 2016)
 
 ##### Commits
 
 *   [[`6995da989a`](https://github.com/postlight/babel-preset-lux/commit/6995da989a)] - **feat**: add flowtype support plugins (#1) (Zachary Golba)
 
-### v1.0.0 (Jun 4, 2016)
+### v1.0.0 (June 4, 2016)
 
 ##### Commits
 
